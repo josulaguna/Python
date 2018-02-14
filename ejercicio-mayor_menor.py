@@ -1,5 +1,5 @@
 #Josué Laguna Alonso
-#12/02/2018
+#13/02/2018
 A = input ("Introduce el valor A: ")
 B = input ("Introduce el valor B: ")
 C = input ("Introduce el valor C: ")
