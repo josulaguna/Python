@@ -13,7 +13,7 @@ if (A > B) and (A > C)
 	print "El valor C es el mas pequeño"
 else:
     if (B > A) and (B > C):
-	print "El valor B es el mas grande
+	print "El valor B es el mas grande"
     else:
 	print "El valor C es el mas grande"
 
