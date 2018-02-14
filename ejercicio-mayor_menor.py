@@ -4,13 +4,10 @@ A = input ("Introduce el valor A: ")
 B = input ("Introduce el valor B: ")
 C = input ("Introduce el valor C: ")
 
-if (A == B) and (A == C):
-	print "Hay 3 valores iguales"
-	else:
-	    if (A > B) and (A > C)
+if (A > B) and (A > C)
 	print "El valor A es el mas grande"
     if (B < C) :
-			print ""
+	print "El valor B es el mas grande"
 if B > A > C:
 	print "El valor B es el mas grande y el valor C es el mas pequeño"
     else:
