@@ -5,8 +5,8 @@ valor2 = input ("Escribe el segundo valor: ")
 if (valor1 > valor2):
   print "El primer valor es mas grande que el segundo"
 else:
-  if (valor2 > valor1)
+  if (valor2 > valor1):
       print "El segundo valor es mas grande que el primero"
-  else
+  else:
       print "Los dos numeros son iguales"
    
