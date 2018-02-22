@@ -12,7 +12,10 @@ print """
 |        Diesel Fast&Furius = 6          |
 ******************************************
 """
-tipo_gasolina = input ("Que tipo de gasolina quiere? ")
-litros_gasolina = input ("Cuantos litros quiere? ")
-if tipo_gasolina = 1:
-	print 
+
+tipo = input ("Que tipo de gasolina quiere? ")
+litros = input ("Cuantos litros quiere? ")
+
+if (tipo == 1):
+	print "Ha elegido la super normal, y ha elegido", litros "litros"
+
