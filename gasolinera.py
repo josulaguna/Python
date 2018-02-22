@@ -16,6 +16,6 @@ print """
 tipo = input ("Que tipo de gasolina quiere? ")
 litros = input ("Cuantos litros quiere? ")
 
-if (tipo == 1):
+if (tipo = 1):
 	print "Ha elegido la super normal, y ha elegido", litros "litros"
 
