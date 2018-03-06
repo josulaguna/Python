@@ -3,7 +3,7 @@
 import time
 salir = "N"
 numero = 1 
-numeromax2  = input ("Hasta que numero quieres que cuente?")
+numeromax2 = input ("Hasta que numero quieres que cuente?")
 while (salir=="N"):
 	#Hago cosas
 	print "informe año: ",numero
